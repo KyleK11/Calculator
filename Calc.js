@@ -128,5 +128,4 @@ function pasteButPress(){
         document.getElementById("entry").value = valMemStored;
         newVal = valMemStored;
     }
-     
 }
